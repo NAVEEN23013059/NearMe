@@ -26,42 +26,71 @@ Execute the programs and publish them.
 
 ## CODE
 map.html
-
 <html>
-    <head>
-        <title>MAP APP</title>
-    </head>
-    <body>
-        <h1 align="center">Thoothukudi</h1>
-        <h2 align="center"> NAVEEN(212223240106)</h2>
-        <center>
-            <img src="Screenshot 1.png" usemap="#image-map">
+    
+<head>
 
-            <map name="image-map">
-                <area target="" alt="Anadavar Night Club" title="Anadavar Night Club" href="poratta.html" coords="662,557,295,643" shape="rect">
-                <area target="" alt="Velavan Hyper Market" title="Velavan Hyper Market" href="Market.html" coords="761,224,82" shape="circle">
-                <area target="" alt="Alagar Public School" title="Alagar Public School" href="school.html" coords="869,726,1010,704,1069,729,1001,757,937,757" shape="poly">
-                <area target="" alt="Thoothukudi Horbour" title="Thoothukudi Horbour" href="Horbour.html" coords="600,362,97" shape="circle">
-                <area target="" alt="VOC College" title="VOC College" href="VOC_college.html" coords="865,394,1042,468" shape="rect">
+<title>MAP APP</title>
+
+</head>
+    
+<body>
+
+<h1 align="center">Thoothukudi</h1>
+        
+<h2 align="center"> NAVEEN(212223240106)</h2>
+        
+<center>
+            
+<img src="Screenshot 1.png" usemap="#image-map">
+
+<map name="image-map">
+
+<area target="" alt="Anadavar Night Club" title="Anadavar Night Club" href="poratta.html" coords="662,557,295,643" shape="rect">
+                
+<area target="" alt="Velavan Hyper Market" title="Velavan Hyper Market" href="Market.html" coords="761,224,82" shape="circle">
+
+<area target="" alt="Alagar Public School" title="Alagar Public School" href="school.html" coords="869,726,1010,704,1069,729,1001,757,937,757" shape="poly">
+                
+<area target="" alt="Thoothukudi Horbour" title="Thoothukudi Horbour" href="Horbour.html" coords="600,362,97" shape="circle">
+                
+<area target="" alt="VOC College" title="VOC College" href="VOC_college.html" coords="865,394,1042,468" shape="rect">
+
 </center>
+
 </map>
-    </body>
+
+</body>
+
 </html>
+
 Horbour.html
 
 <html>
-    <head>
-        <title>My City</title>
-    </head>
-    <body bgcolor="black">
-        <h1 align="center">
-        <font color="gold"><b>Thoothukudi</b></font>
-        </h1>
-        <h3 align="center">
-        <font color="blue"><b>Thoothukudi Horbour</b></font>
-        </h3>
-        <hr size="3" color="cyan">
-        <p align="justify">
+
+<head>
+
+<title>My City</title>
+    
+</head>
+    
+<body bgcolor="black">
+        
+<h1 align="center">
+       
+<font color="gold"><b>Thoothukudi</b></font>
+
+</h1>
+
+<h3 align="center">
+
+<font color="blue"><b>Thoothukudi Horbour</b></font>
+        
+</h3>
+
+<hr size="3" color="cyan">
+
+<p align="justify">
         <font face="Georgia" size="5" color="white">It is one of the 13 major ports in India. It was declared to be a major port on 11 July 1974. It is the second largest port in Tamil Nadu and third largest container terminal in India. V.O. Chidambaranar Port is an artificial port.This is the third international port in Tamil Nadu and it is second all-weather port. All V.O. Chidambaranar Port Authority's traffic handling has crossed 10 million tons from 1 April to 13 September 2008, registering a growth rate of 12.08 per cent, surpassing the corresponding previous year handling of 8.96 million tons.
 
         </font>
